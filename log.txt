@@ -1,3 +1,5 @@
 2017/2/7
-了解swagger
+1.学会使用GitHub
+2.安装了Vmwaer，linux系统
+3.了解swagger，下载了在线API，本地启动成功
 
