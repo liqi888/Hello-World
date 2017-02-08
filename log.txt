@@ -3,3 +3,7 @@
 2.安装了Vmwaer，linux系统
 3.了解swagger，下载了在线API，本地启动成功
 
+2017/2/8
+1.本地安装了RabbitMQ，启动成功
+2.学习spring项目集成RabbitMQ，实现发送消息与接收消息
+
